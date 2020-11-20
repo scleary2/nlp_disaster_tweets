@@ -1,0 +1,3264 @@
+id,target
+0,Disaster
+2,Disaster
+3,Disaster
+9,Not a Disaster
+11,Disaster
+12,Disaster
+21,Not a Disaster
+22,Not a Disaster
+27,Not a Disaster
+29,Not a Disaster
+30,Not a Disaster
+35,Not a Disaster
+42,Not a Disaster
+43,Not a Disaster
+45,Not a Disaster
+46,Not a Disaster
+47,Not a Disaster
+51,Disaster
+58,Not a Disaster
+60,Not a Disaster
+69,Not a Disaster
+70,Not a Disaster
+72,Not a Disaster
+75,Disaster
+84,Not a Disaster
+87,Not a Disaster
+88,Not a Disaster
+90,Not a Disaster
+94,Not a Disaster
+99,Disaster
+101,Not a Disaster
+103,Not a Disaster
+106,Disaster
+108,Not a Disaster
+111,Disaster
+115,Not a Disaster
+116,Not a Disaster
+122,Not a Disaster
+123,Not a Disaster
+124,Not a Disaster
+125,Not a Disaster
+127,Disaster
+140,Not a Disaster
+142,Not a Disaster
+147,Not a Disaster
+148,Not a Disaster
+150,Not a Disaster
+152,Not a Disaster
+154,Not a Disaster
+155,Not a Disaster
+166,Not a Disaster
+167,Not a Disaster
+169,Disaster
+177,Not a Disaster
+179,Not a Disaster
+181,Not a Disaster
+186,Not a Disaster
+188,Not a Disaster
+189,Not a Disaster
+192,Not a Disaster
+200,Not a Disaster
+202,Not a Disaster
+206,Disaster
+207,Disaster
+214,Disaster
+217,Disaster
+223,Not a Disaster
+224,Disaster
+227,Disaster
+228,Disaster
+230,Disaster
+233,Disaster
+234,Disaster
+236,Disaster
+239,Disaster
+250,Disaster
+255,Not a Disaster
+257,Not a Disaster
+259,Not a Disaster
+275,Disaster
+278,Not a Disaster
+282,Not a Disaster
+284,Not a Disaster
+286,Not a Disaster
+288,Disaster
+292,Not a Disaster
+295,Not a Disaster
+300,Not a Disaster
+304,Disaster
+305,Disaster
+306,Not a Disaster
+308,Not a Disaster
+311,Not a Disaster
+317,Not a Disaster
+319,Not a Disaster
+323,Not a Disaster
+324,Not a Disaster
+325,Not a Disaster
+326,Not a Disaster
+333,Not a Disaster
+339,Not a Disaster
+342,Not a Disaster
+343,Not a Disaster
+350,Not a Disaster
+351,Not a Disaster
+357,Not a Disaster
+359,Not a Disaster
+362,Not a Disaster
+366,Not a Disaster
+367,Not a Disaster
+369,Not a Disaster
+373,Not a Disaster
+374,Not a Disaster
+376,Not a Disaster
+377,Not a Disaster
+378,Not a Disaster
+379,Not a Disaster
+382,Not a Disaster
+385,Not a Disaster
+387,Not a Disaster
+388,Not a Disaster
+391,Not a Disaster
+392,Not a Disaster
+395,Not a Disaster
+399,Not a Disaster
+400,Not a Disaster
+403,Not a Disaster
+405,Not a Disaster
+408,Not a Disaster
+411,Not a Disaster
+414,Not a Disaster
+416,Not a Disaster
+417,Not a Disaster
+422,Not a Disaster
+425,Not a Disaster
+428,Not a Disaster
+430,Not a Disaster
+431,Not a Disaster
+433,Not a Disaster
+434,Not a Disaster
+439,Not a Disaster
+441,Not a Disaster
+449,Not a Disaster
+458,Not a Disaster
+460,Not a Disaster
+464,Not a Disaster
+473,Not a Disaster
+488,Not a Disaster
+491,Not a Disaster
+494,Disaster
+497,Not a Disaster
+500,Not a Disaster
+505,Not a Disaster
+507,Not a Disaster
+508,Not a Disaster
+510,Not a Disaster
+511,Not a Disaster
+515,Disaster
+525,Not a Disaster
+529,Not a Disaster
+532,Not a Disaster
+534,Not a Disaster
+537,Not a Disaster
+539,Not a Disaster
+541,Not a Disaster
+545,Not a Disaster
+547,Disaster
+548,Disaster
+549,Disaster
+553,Disaster
+554,Not a Disaster
+555,Disaster
+557,Disaster
+562,Not a Disaster
+566,Disaster
+572,Not a Disaster
+573,Disaster
+582,Not a Disaster
+586,Disaster
+587,Not a Disaster
+590,Disaster
+591,Not a Disaster
+593,Not a Disaster
+595,Disaster
+596,Not a Disaster
+597,Not a Disaster
+601,Not a Disaster
+602,Not a Disaster
+605,Disaster
+610,Disaster
+616,Not a Disaster
+618,Not a Disaster
+620,Disaster
+626,Not a Disaster
+627,Not a Disaster
+629,Not a Disaster
+632,Disaster
+634,Not a Disaster
+639,Not a Disaster
+645,Disaster
+647,Disaster
+648,Not a Disaster
+650,Not a Disaster
+663,Not a Disaster
+666,Disaster
+668,Not a Disaster
+670,Not a Disaster
+673,Disaster
+676,Not a Disaster
+678,Not a Disaster
+692,Not a Disaster
+693,Not a Disaster
+694,Not a Disaster
+695,Not a Disaster
+696,Disaster
+698,Not a Disaster
+701,Not a Disaster
+703,Disaster
+707,Disaster
+708,Disaster
+711,Disaster
+715,Disaster
+718,Not a Disaster
+722,Not a Disaster
+723,Not a Disaster
+733,Disaster
+741,Not a Disaster
+742,Disaster
+743,Disaster
+747,Not a Disaster
+749,Not a Disaster
+750,Not a Disaster
+756,Not a Disaster
+757,Not a Disaster
+760,Not a Disaster
+764,Not a Disaster
+765,Not a Disaster
+766,Not a Disaster
+768,Not a Disaster
+769,Not a Disaster
+771,Not a Disaster
+772,Not a Disaster
+776,Not a Disaster
+778,Not a Disaster
+780,Not a Disaster
+785,Not a Disaster
+789,Not a Disaster
+792,Not a Disaster
+793,Not a Disaster
+811,Not a Disaster
+813,Not a Disaster
+816,Not a Disaster
+821,Not a Disaster
+824,Not a Disaster
+825,Not a Disaster
+827,Not a Disaster
+830,Disaster
+831,Disaster
+839,Disaster
+844,Not a Disaster
+847,Disaster
+850,Disaster
+854,Disaster
+855,Disaster
+858,Not a Disaster
+861,Disaster
+862,Not a Disaster
+865,Disaster
+869,Disaster
+879,Disaster
+880,Disaster
+887,Disaster
+889,Disaster
+897,Not a Disaster
+900,Disaster
+901,Disaster
+904,Disaster
+908,Not a Disaster
+909,Not a Disaster
+910,Disaster
+913,Disaster
+914,Disaster
+917,Disaster
+918,Disaster
+920,Not a Disaster
+922,Disaster
+924,Disaster
+925,Not a Disaster
+927,Not a Disaster
+933,Not a Disaster
+937,Not a Disaster
+943,Not a Disaster
+949,Not a Disaster
+950,Not a Disaster
+954,Not a Disaster
+966,Not a Disaster
+967,Not a Disaster
+969,Not a Disaster
+970,Disaster
+973,Not a Disaster
+975,Not a Disaster
+980,Not a Disaster
+988,Not a Disaster
+989,Not a Disaster
+995,Not a Disaster
+1000,Not a Disaster
+1003,Not a Disaster
+1007,Not a Disaster
+1011,Not a Disaster
+1012,Not a Disaster
+1013,Not a Disaster
+1014,Not a Disaster
+1016,Disaster
+1019,Not a Disaster
+1025,Not a Disaster
+1027,Not a Disaster
+1028,Disaster
+1030,Not a Disaster
+1033,Not a Disaster
+1034,Not a Disaster
+1039,Not a Disaster
+1046,Not a Disaster
+1047,Not a Disaster
+1053,Not a Disaster
+1055,Not a Disaster
+1056,Not a Disaster
+1059,Not a Disaster
+1060,Not a Disaster
+1063,Not a Disaster
+1064,Not a Disaster
+1068,Not a Disaster
+1076,Not a Disaster
+1086,Not a Disaster
+1087,Not a Disaster
+1089,Not a Disaster
+1092,Not a Disaster
+1095,Not a Disaster
+1096,Not a Disaster
+1097,Not a Disaster
+1100,Not a Disaster
+1101,Not a Disaster
+1107,Not a Disaster
+1108,Not a Disaster
+1111,Not a Disaster
+1115,Not a Disaster
+1116,Not a Disaster
+1121,Not a Disaster
+1125,Not a Disaster
+1127,Not a Disaster
+1131,Not a Disaster
+1133,Not a Disaster
+1135,Not a Disaster
+1137,Not a Disaster
+1140,Not a Disaster
+1144,Not a Disaster
+1147,Not a Disaster
+1148,Not a Disaster
+1150,Not a Disaster
+1158,Not a Disaster
+1159,Not a Disaster
+1161,Not a Disaster
+1163,Not a Disaster
+1165,Not a Disaster
+1169,Not a Disaster
+1171,Not a Disaster
+1172,Not a Disaster
+1176,Not a Disaster
+1180,Not a Disaster
+1184,Not a Disaster
+1186,Not a Disaster
+1187,Not a Disaster
+1192,Not a Disaster
+1193,Not a Disaster
+1194,Not a Disaster
+1197,Not a Disaster
+1200,Not a Disaster
+1205,Not a Disaster
+1210,Not a Disaster
+1216,Not a Disaster
+1220,Not a Disaster
+1231,Not a Disaster
+1233,Not a Disaster
+1246,Not a Disaster
+1247,Not a Disaster
+1248,Not a Disaster
+1255,Not a Disaster
+1256,Not a Disaster
+1257,Not a Disaster
+1258,Not a Disaster
+1260,Not a Disaster
+1261,Not a Disaster
+1265,Not a Disaster
+1266,Not a Disaster
+1268,Not a Disaster
+1274,Not a Disaster
+1281,Not a Disaster
+1285,Disaster
+1286,Not a Disaster
+1291,Not a Disaster
+1292,Not a Disaster
+1295,Not a Disaster
+1299,Not a Disaster
+1306,Not a Disaster
+1310,Not a Disaster
+1311,Not a Disaster
+1313,Not a Disaster
+1314,Not a Disaster
+1322,Not a Disaster
+1323,Not a Disaster
+1325,Not a Disaster
+1329,Not a Disaster
+1330,Not a Disaster
+1333,Not a Disaster
+1336,Not a Disaster
+1339,Not a Disaster
+1342,Not a Disaster
+1344,Not a Disaster
+1355,Disaster
+1357,Not a Disaster
+1358,Not a Disaster
+1359,Not a Disaster
+1364,Not a Disaster
+1366,Not a Disaster
+1367,Not a Disaster
+1370,Disaster
+1373,Not a Disaster
+1377,Not a Disaster
+1386,Not a Disaster
+1387,Not a Disaster
+1392,Not a Disaster
+1397,Not a Disaster
+1398,Not a Disaster
+1400,Not a Disaster
+1403,Not a Disaster
+1404,Not a Disaster
+1410,Not a Disaster
+1413,Not a Disaster
+1416,Not a Disaster
+1417,Not a Disaster
+1423,Not a Disaster
+1424,Not a Disaster
+1426,Not a Disaster
+1427,Not a Disaster
+1428,Not a Disaster
+1430,Not a Disaster
+1434,Not a Disaster
+1435,Not a Disaster
+1437,Not a Disaster
+1438,Not a Disaster
+1442,Not a Disaster
+1446,Not a Disaster
+1451,Not a Disaster
+1457,Not a Disaster
+1461,Not a Disaster
+1462,Not a Disaster
+1465,Not a Disaster
+1468,Not a Disaster
+1469,Not a Disaster
+1471,Not a Disaster
+1476,Not a Disaster
+1478,Not a Disaster
+1481,Not a Disaster
+1489,Not a Disaster
+1490,Not a Disaster
+1492,Not a Disaster
+1496,Not a Disaster
+1512,Not a Disaster
+1516,Not a Disaster
+1517,Not a Disaster
+1528,Not a Disaster
+1529,Disaster
+1536,Disaster
+1539,Not a Disaster
+1541,Not a Disaster
+1542,Disaster
+1548,Disaster
+1550,Not a Disaster
+1551,Not a Disaster
+1552,Not a Disaster
+1557,Disaster
+1563,Not a Disaster
+1564,Not a Disaster
+1565,Not a Disaster
+1566,Disaster
+1571,Disaster
+1578,Not a Disaster
+1581,Not a Disaster
+1583,Not a Disaster
+1584,Not a Disaster
+1586,Disaster
+1589,Disaster
+1592,Disaster
+1598,Disaster
+1606,Not a Disaster
+1612,Not a Disaster
+1616,Not a Disaster
+1620,Not a Disaster
+1624,Not a Disaster
+1629,Disaster
+1630,Disaster
+1635,Disaster
+1640,Disaster
+1641,Disaster
+1642,Disaster
+1651,Disaster
+1655,Disaster
+1656,Disaster
+1659,Disaster
+1664,Disaster
+1667,Disaster
+1668,Disaster
+1674,Disaster
+1678,Not a Disaster
+1680,Disaster
+1681,Disaster
+1682,Disaster
+1685,Disaster
+1695,Disaster
+1696,Not a Disaster
+1697,Not a Disaster
+1704,Disaster
+1708,Disaster
+1711,Disaster
+1713,Disaster
+1714,Disaster
+1717,Disaster
+1729,Disaster
+1730,Not a Disaster
+1732,Disaster
+1734,Disaster
+1736,Not a Disaster
+1738,Disaster
+1742,Not a Disaster
+1743,Disaster
+1746,Not a Disaster
+1748,Not a Disaster
+1749,Disaster
+1751,Disaster
+1758,Not a Disaster
+1764,Disaster
+1765,Disaster
+1777,Disaster
+1778,Not a Disaster
+1781,Not a Disaster
+1782,Disaster
+1783,Disaster
+1785,Disaster
+1788,Disaster
+1793,Disaster
+1794,Not a Disaster
+1795,Disaster
+1797,Disaster
+1800,Disaster
+1801,Disaster
+1805,Disaster
+1806,Disaster
+1819,Disaster
+1820,Disaster
+1825,Not a Disaster
+1828,Not a Disaster
+1829,Not a Disaster
+1830,Not a Disaster
+1839,Disaster
+1843,Not a Disaster
+1844,Not a Disaster
+1846,Not a Disaster
+1849,Not a Disaster
+1850,Not a Disaster
+1854,Not a Disaster
+1855,Not a Disaster
+1858,Not a Disaster
+1859,Not a Disaster
+1862,Not a Disaster
+1867,Not a Disaster
+1868,Not a Disaster
+1871,Disaster
+1872,Not a Disaster
+1874,Disaster
+1876,Not a Disaster
+1879,Not a Disaster
+1884,Not a Disaster
+1891,Not a Disaster
+1894,Not a Disaster
+1896,Not a Disaster
+1902,Not a Disaster
+1903,Not a Disaster
+1904,Not a Disaster
+1906,Not a Disaster
+1907,Not a Disaster
+1912,Not a Disaster
+1913,Not a Disaster
+1923,Disaster
+1926,Not a Disaster
+1928,Disaster
+1930,Disaster
+1931,Not a Disaster
+1934,Not a Disaster
+1936,Disaster
+1944,Disaster
+1946,Disaster
+1947,Disaster
+1958,Not a Disaster
+1964,Not a Disaster
+1970,Disaster
+1974,Not a Disaster
+1977,Disaster
+1978,Disaster
+1982,Disaster
+1984,Disaster
+1988,Disaster
+1993,Not a Disaster
+1997,Disaster
+1998,Disaster
+2002,Not a Disaster
+2004,Disaster
+2005,Disaster
+2008,Not a Disaster
+2011,Disaster
+2013,Not a Disaster
+2018,Disaster
+2021,Disaster
+2025,Not a Disaster
+2029,Disaster
+2030,Disaster
+2032,Not a Disaster
+2037,Disaster
+2041,Disaster
+2044,Disaster
+2048,Disaster
+2052,Disaster
+2053,Disaster
+2054,Disaster
+2062,Not a Disaster
+2065,Not a Disaster
+2066,Not a Disaster
+2072,Disaster
+2079,Disaster
+2080,Not a Disaster
+2085,Not a Disaster
+2088,Not a Disaster
+2090,Not a Disaster
+2092,Not a Disaster
+2093,Not a Disaster
+2101,Not a Disaster
+2104,Not a Disaster
+2105,Not a Disaster
+2106,Not a Disaster
+2107,Not a Disaster
+2120,Not a Disaster
+2124,Not a Disaster
+2127,Not a Disaster
+2130,Not a Disaster
+2132,Not a Disaster
+2135,Not a Disaster
+2137,Disaster
+2140,Not a Disaster
+2143,Not a Disaster
+2147,Not a Disaster
+2151,Not a Disaster
+2152,Not a Disaster
+2155,Not a Disaster
+2156,Not a Disaster
+2162,Not a Disaster
+2165,Not a Disaster
+2166,Disaster
+2167,Disaster
+2168,Not a Disaster
+2170,Not a Disaster
+2178,Disaster
+2180,Not a Disaster
+2182,Not a Disaster
+2184,Not a Disaster
+2185,Not a Disaster
+2187,Not a Disaster
+2196,Not a Disaster
+2197,Disaster
+2199,Disaster
+2200,Not a Disaster
+2201,Not a Disaster
+2202,Not a Disaster
+2206,Not a Disaster
+2208,Not a Disaster
+2218,Not a Disaster
+2223,Disaster
+2224,Disaster
+2226,Not a Disaster
+2228,Disaster
+2232,Disaster
+2234,Disaster
+2243,Disaster
+2247,Not a Disaster
+2249,Disaster
+2252,Disaster
+2253,Disaster
+2259,Not a Disaster
+2261,Not a Disaster
+2264,Not a Disaster
+2268,Not a Disaster
+2269,Not a Disaster
+2270,Not a Disaster
+2276,Disaster
+2283,Not a Disaster
+2287,Not a Disaster
+2290,Not a Disaster
+2291,Not a Disaster
+2293,Not a Disaster
+2295,Not a Disaster
+2302,Not a Disaster
+2305,Not a Disaster
+2310,Disaster
+2313,Disaster
+2316,Disaster
+2320,Not a Disaster
+2322,Not a Disaster
+2323,Disaster
+2326,Disaster
+2328,Disaster
+2331,Not a Disaster
+2335,Disaster
+2338,Not a Disaster
+2343,Not a Disaster
+2344,Not a Disaster
+2345,Not a Disaster
+2353,Disaster
+2355,Not a Disaster
+2357,Not a Disaster
+2360,Disaster
+2365,Not a Disaster
+2369,Not a Disaster
+2371,Not a Disaster
+2378,Not a Disaster
+2380,Not a Disaster
+2381,Not a Disaster
+2383,Disaster
+2384,Not a Disaster
+2392,Not a Disaster
+2393,Not a Disaster
+2401,Not a Disaster
+2403,Not a Disaster
+2404,Not a Disaster
+2405,Not a Disaster
+2407,Not a Disaster
+2411,Not a Disaster
+2424,Not a Disaster
+2426,Not a Disaster
+2431,Not a Disaster
+2433,Not a Disaster
+2434,Not a Disaster
+2436,Not a Disaster
+2439,Not a Disaster
+2444,Not a Disaster
+2447,Not a Disaster
+2448,Not a Disaster
+2449,Not a Disaster
+2450,Not a Disaster
+2461,Disaster
+2469,Not a Disaster
+2472,Not a Disaster
+2473,Not a Disaster
+2474,Not a Disaster
+2477,Not a Disaster
+2481,Not a Disaster
+2484,Not a Disaster
+2495,Not a Disaster
+2503,Not a Disaster
+2509,Disaster
+2511,Disaster
+2518,Disaster
+2522,Disaster
+2525,Disaster
+2526,Disaster
+2529,Not a Disaster
+2533,Not a Disaster
+2549,Not a Disaster
+2551,Not a Disaster
+2558,Not a Disaster
+2562,Disaster
+2563,Disaster
+2567,Not a Disaster
+2574,Disaster
+2577,Disaster
+2578,Not a Disaster
+2580,Disaster
+2581,Not a Disaster
+2583,Not a Disaster
+2584,Not a Disaster
+2586,Disaster
+2589,Disaster
+2595,Not a Disaster
+2596,Not a Disaster
+2600,Disaster
+2601,Disaster
+2607,Not a Disaster
+2610,Not a Disaster
+2613,Not a Disaster
+2615,Not a Disaster
+2618,Not a Disaster
+2620,Not a Disaster
+2623,Disaster
+2626,Not a Disaster
+2630,Not a Disaster
+2634,Disaster
+2636,Disaster
+2638,Not a Disaster
+2639,Disaster
+2646,Not a Disaster
+2650,Disaster
+2652,Not a Disaster
+2653,Not a Disaster
+2654,Not a Disaster
+2662,Not a Disaster
+2665,Not a Disaster
+2669,Not a Disaster
+2674,Not a Disaster
+2678,Not a Disaster
+2681,Not a Disaster
+2685,Not a Disaster
+2686,Not a Disaster
+2690,Not a Disaster
+2697,Not a Disaster
+2699,Not a Disaster
+2704,Not a Disaster
+2705,Not a Disaster
+2710,Not a Disaster
+2712,Not a Disaster
+2713,Not a Disaster
+2716,Not a Disaster
+2717,Not a Disaster
+2718,Not a Disaster
+2721,Not a Disaster
+2722,Not a Disaster
+2735,Not a Disaster
+2737,Not a Disaster
+2738,Not a Disaster
+2742,Not a Disaster
+2745,Not a Disaster
+2746,Not a Disaster
+2747,Not a Disaster
+2750,Not a Disaster
+2751,Not a Disaster
+2754,Not a Disaster
+2762,Not a Disaster
+2764,Not a Disaster
+2772,Not a Disaster
+2775,Not a Disaster
+2776,Not a Disaster
+2779,Not a Disaster
+2781,Not a Disaster
+2789,Not a Disaster
+2790,Not a Disaster
+2791,Not a Disaster
+2798,Not a Disaster
+2800,Not a Disaster
+2804,Not a Disaster
+2805,Not a Disaster
+2806,Disaster
+2809,Not a Disaster
+2810,Not a Disaster
+2812,Disaster
+2814,Disaster
+2816,Disaster
+2818,Disaster
+2823,Not a Disaster
+2824,Disaster
+2834,Disaster
+2837,Not a Disaster
+2840,Not a Disaster
+2845,Disaster
+2847,Disaster
+2848,Not a Disaster
+2850,Not a Disaster
+2859,Not a Disaster
+2862,Not a Disaster
+2868,Disaster
+2874,Not a Disaster
+2876,Not a Disaster
+2892,Not a Disaster
+2894,Disaster
+2897,Not a Disaster
+2901,Not a Disaster
+2903,Not a Disaster
+2904,Not a Disaster
+2906,Not a Disaster
+2914,Not a Disaster
+2918,Not a Disaster
+2919,Not a Disaster
+2923,Not a Disaster
+2926,Not a Disaster
+2928,Not a Disaster
+2930,Not a Disaster
+2938,Not a Disaster
+2940,Not a Disaster
+2949,Not a Disaster
+2951,Not a Disaster
+2958,Not a Disaster
+2961,Not a Disaster
+2962,Disaster
+2964,Not a Disaster
+2966,Not a Disaster
+2967,Not a Disaster
+2968,Not a Disaster
+2972,Not a Disaster
+2977,Not a Disaster
+2978,Disaster
+2979,Not a Disaster
+2981,Not a Disaster
+2985,Not a Disaster
+2986,Not a Disaster
+2989,Disaster
+2994,Not a Disaster
+2996,Disaster
+2997,Not a Disaster
+2999,Not a Disaster
+3002,Not a Disaster
+3007,Not a Disaster
+3008,Not a Disaster
+3017,Not a Disaster
+3020,Not a Disaster
+3024,Not a Disaster
+3028,Not a Disaster
+3031,Disaster
+3032,Disaster
+3033,Not a Disaster
+3035,Not a Disaster
+3040,Disaster
+3041,Disaster
+3046,Not a Disaster
+3050,Disaster
+3063,Disaster
+3065,Not a Disaster
+3067,Disaster
+3069,Not a Disaster
+3076,Not a Disaster
+3078,Not a Disaster
+3081,Not a Disaster
+3087,Disaster
+3088,Not a Disaster
+3094,Not a Disaster
+3096,Not a Disaster
+3098,Not a Disaster
+3103,Disaster
+3110,Disaster
+3113,Disaster
+3121,Disaster
+3127,Disaster
+3128,Disaster
+3129,Disaster
+3135,Disaster
+3143,Disaster
+3146,Disaster
+3148,Disaster
+3149,Disaster
+3151,Disaster
+3156,Not a Disaster
+3160,Not a Disaster
+3164,Disaster
+3169,Not a Disaster
+3178,Not a Disaster
+3187,Not a Disaster
+3194,Not a Disaster
+3202,Not a Disaster
+3203,Not a Disaster
+3204,Not a Disaster
+3206,Disaster
+3207,Not a Disaster
+3208,Not a Disaster
+3209,Disaster
+3213,Not a Disaster
+3214,Not a Disaster
+3215,Not a Disaster
+3220,Not a Disaster
+3223,Not a Disaster
+3224,Not a Disaster
+3226,Not a Disaster
+3228,Not a Disaster
+3230,Not a Disaster
+3232,Not a Disaster
+3233,Not a Disaster
+3234,Not a Disaster
+3238,Not a Disaster
+3246,Not a Disaster
+3247,Disaster
+3250,Not a Disaster
+3251,Not a Disaster
+3254,Not a Disaster
+3257,Disaster
+3258,Not a Disaster
+3261,Not a Disaster
+3267,Not a Disaster
+3268,Not a Disaster
+3269,Not a Disaster
+3271,Not a Disaster
+3272,Not a Disaster
+3273,Not a Disaster
+3279,Not a Disaster
+3290,Not a Disaster
+3291,Not a Disaster
+3293,Not a Disaster
+3294,Not a Disaster
+3298,Not a Disaster
+3305,Not a Disaster
+3306,Not a Disaster
+3307,Not a Disaster
+3310,Not a Disaster
+3313,Not a Disaster
+3314,Not a Disaster
+3315,Not a Disaster
+3316,Not a Disaster
+3321,Not a Disaster
+3325,Not a Disaster
+3326,Not a Disaster
+3327,Not a Disaster
+3330,Disaster
+3331,Not a Disaster
+3332,Not a Disaster
+3333,Not a Disaster
+3343,Not a Disaster
+3344,Not a Disaster
+3348,Not a Disaster
+3349,Not a Disaster
+3350,Not a Disaster
+3352,Not a Disaster
+3353,Not a Disaster
+3354,Not a Disaster
+3358,Not a Disaster
+3360,Not a Disaster
+3366,Not a Disaster
+3371,Not a Disaster
+3374,Disaster
+3375,Not a Disaster
+3378,Disaster
+3382,Not a Disaster
+3384,Not a Disaster
+3385,Not a Disaster
+3386,Not a Disaster
+3392,Not a Disaster
+3399,Not a Disaster
+3407,Not a Disaster
+3409,Not a Disaster
+3416,Disaster
+3420,Not a Disaster
+3422,Disaster
+3424,Not a Disaster
+3426,Disaster
+3427,Not a Disaster
+3434,Not a Disaster
+3438,Not a Disaster
+3441,Not a Disaster
+3442,Not a Disaster
+3443,Not a Disaster
+3444,Disaster
+3449,Not a Disaster
+3453,Disaster
+3454,Not a Disaster
+3456,Disaster
+3457,Disaster
+3458,Disaster
+3461,Disaster
+3467,Disaster
+3479,Disaster
+3488,Disaster
+3491,Disaster
+3496,Disaster
+3502,Not a Disaster
+3507,Disaster
+3511,Disaster
+3515,Disaster
+3516,Disaster
+3538,Not a Disaster
+3539,Disaster
+3541,Disaster
+3545,Disaster
+3546,Disaster
+3547,Not a Disaster
+3551,Disaster
+3553,Not a Disaster
+3556,Not a Disaster
+3558,Not a Disaster
+3559,Not a Disaster
+3561,Not a Disaster
+3562,Not a Disaster
+3563,Not a Disaster
+3564,Not a Disaster
+3571,Not a Disaster
+3574,Not a Disaster
+3576,Not a Disaster
+3577,Not a Disaster
+3579,Disaster
+3580,Not a Disaster
+3586,Not a Disaster
+3590,Not a Disaster
+3599,Not a Disaster
+3600,Not a Disaster
+3601,Not a Disaster
+3605,Not a Disaster
+3606,Not a Disaster
+3612,Not a Disaster
+3614,Not a Disaster
+3615,Not a Disaster
+3616,Not a Disaster
+3620,Not a Disaster
+3622,Not a Disaster
+3624,Not a Disaster
+3630,Not a Disaster
+3644,Not a Disaster
+3649,Not a Disaster
+3651,Not a Disaster
+3654,Not a Disaster
+3665,Not a Disaster
+3668,Not a Disaster
+3671,Not a Disaster
+3672,Not a Disaster
+3673,Not a Disaster
+3677,Not a Disaster
+3678,Not a Disaster
+3687,Not a Disaster
+3688,Not a Disaster
+3693,Not a Disaster
+3698,Not a Disaster
+3699,Not a Disaster
+3701,Disaster
+3703,Not a Disaster
+3706,Not a Disaster
+3707,Not a Disaster
+3709,Not a Disaster
+3711,Not a Disaster
+3714,Not a Disaster
+3716,Not a Disaster
+3720,Disaster
+3728,Disaster
+3731,Not a Disaster
+3732,Not a Disaster
+3733,Not a Disaster
+3734,Not a Disaster
+3740,Not a Disaster
+3746,Not a Disaster
+3749,Not a Disaster
+3751,Not a Disaster
+3755,Not a Disaster
+3757,Not a Disaster
+3762,Not a Disaster
+3767,Not a Disaster
+3769,Not a Disaster
+3779,Not a Disaster
+3781,Not a Disaster
+3782,Not a Disaster
+3783,Not a Disaster
+3784,Not a Disaster
+3790,Not a Disaster
+3791,Not a Disaster
+3792,Disaster
+3794,Not a Disaster
+3799,Not a Disaster
+3801,Not a Disaster
+3804,Not a Disaster
+3808,Not a Disaster
+3809,Not a Disaster
+3811,Not a Disaster
+3813,Not a Disaster
+3817,Not a Disaster
+3818,Not a Disaster
+3823,Not a Disaster
+3843,Not a Disaster
+3844,Not a Disaster
+3846,Not a Disaster
+3847,Not a Disaster
+3852,Not a Disaster
+3854,Not a Disaster
+3856,Not a Disaster
+3863,Not a Disaster
+3865,Not a Disaster
+3867,Not a Disaster
+3871,Not a Disaster
+3872,Not a Disaster
+3878,Not a Disaster
+3880,Not a Disaster
+3881,Not a Disaster
+3882,Not a Disaster
+3883,Not a Disaster
+3884,Not a Disaster
+3885,Not a Disaster
+3886,Not a Disaster
+3890,Not a Disaster
+3891,Not a Disaster
+3898,Disaster
+3902,Not a Disaster
+3909,Not a Disaster
+3910,Not a Disaster
+3912,Not a Disaster
+3915,Disaster
+3918,Not a Disaster
+3920,Disaster
+3925,Not a Disaster
+3928,Not a Disaster
+3929,Not a Disaster
+3930,Disaster
+3931,Not a Disaster
+3934,Not a Disaster
+3939,Not a Disaster
+3941,Not a Disaster
+3942,Disaster
+3943,Not a Disaster
+3946,Not a Disaster
+3963,Not a Disaster
+3965,Not a Disaster
+3966,Not a Disaster
+3971,Not a Disaster
+3972,Disaster
+3974,Not a Disaster
+3976,Disaster
+3978,Not a Disaster
+3981,Disaster
+3985,Not a Disaster
+3986,Not a Disaster
+3987,Disaster
+3988,Disaster
+3991,Disaster
+3999,Disaster
+4001,Not a Disaster
+4002,Disaster
+4004,Not a Disaster
+4007,Not a Disaster
+4009,Not a Disaster
+4013,Not a Disaster
+4015,Not a Disaster
+4016,Not a Disaster
+4023,Not a Disaster
+4031,Not a Disaster
+4035,Disaster
+4036,Disaster
+4037,Not a Disaster
+4040,Disaster
+4048,Disaster
+4053,Disaster
+4056,Disaster
+4059,Not a Disaster
+4066,Disaster
+4067,Not a Disaster
+4069,Not a Disaster
+4070,Not a Disaster
+4071,Disaster
+4073,Disaster
+4074,Disaster
+4075,Not a Disaster
+4082,Disaster
+4090,Not a Disaster
+4099,Disaster
+4102,Disaster
+4106,Not a Disaster
+4109,Not a Disaster
+4110,Disaster
+4115,Disaster
+4118,Disaster
+4120,Disaster
+4125,Disaster
+4126,Disaster
+4130,Disaster
+4134,Disaster
+4136,Disaster
+4137,Disaster
+4144,Not a Disaster
+4148,Not a Disaster
+4151,Not a Disaster
+4155,Not a Disaster
+4162,Not a Disaster
+4165,Not a Disaster
+4169,Not a Disaster
+4174,Not a Disaster
+4179,Not a Disaster
+4185,Not a Disaster
+4186,Not a Disaster
+4187,Not a Disaster
+4188,Not a Disaster
+4190,Not a Disaster
+4192,Not a Disaster
+4193,Not a Disaster
+4194,Not a Disaster
+4195,Not a Disaster
+4196,Not a Disaster
+4207,Disaster
+4208,Disaster
+4215,Disaster
+4217,Disaster
+4222,Not a Disaster
+4223,Disaster
+4226,Not a Disaster
+4228,Not a Disaster
+4229,Not a Disaster
+4231,Disaster
+4234,Not a Disaster
+4236,Not a Disaster
+4249,Not a Disaster
+4254,Not a Disaster
+4258,Not a Disaster
+4259,Not a Disaster
+4263,Not a Disaster
+4267,Not a Disaster
+4277,Not a Disaster
+4278,Not a Disaster
+4280,Not a Disaster
+4283,Not a Disaster
+4285,Not a Disaster
+4286,Not a Disaster
+4287,Not a Disaster
+4290,Not a Disaster
+4291,Not a Disaster
+4294,Not a Disaster
+4302,Disaster
+4308,Disaster
+4310,Not a Disaster
+4311,Disaster
+4315,Disaster
+4316,Not a Disaster
+4319,Not a Disaster
+4331,Disaster
+4338,Disaster
+4339,Disaster
+4340,Disaster
+4344,Disaster
+4346,Disaster
+4347,Disaster
+4360,Disaster
+4364,Disaster
+4367,Disaster
+4369,Not a Disaster
+4370,Disaster
+4371,Not a Disaster
+4380,Disaster
+4386,Disaster
+4389,Not a Disaster
+4390,Not a Disaster
+4394,Not a Disaster
+4399,Not a Disaster
+4400,Not a Disaster
+4404,Not a Disaster
+4409,Not a Disaster
+4414,Not a Disaster
+4417,Not a Disaster
+4418,Not a Disaster
+4419,Not a Disaster
+4420,Not a Disaster
+4422,Not a Disaster
+4429,Not a Disaster
+4431,Not a Disaster
+4433,Not a Disaster
+4434,Not a Disaster
+4439,Not a Disaster
+4443,Not a Disaster
+4446,Not a Disaster
+4447,Not a Disaster
+4453,Not a Disaster
+4460,Not a Disaster
+4461,Not a Disaster
+4462,Not a Disaster
+4467,Not a Disaster
+4469,Not a Disaster
+4473,Not a Disaster
+4474,Not a Disaster
+4475,Not a Disaster
+4477,Not a Disaster
+4481,Not a Disaster
+4483,Not a Disaster
+4484,Not a Disaster
+4485,Not a Disaster
+4495,Not a Disaster
+4497,Not a Disaster
+4500,Not a Disaster
+4501,Not a Disaster
+4502,Not a Disaster
+4505,Not a Disaster
+4506,Not a Disaster
+4510,Not a Disaster
+4512,Not a Disaster
+4513,Not a Disaster
+4532,Not a Disaster
+4535,Not a Disaster
+4536,Not a Disaster
+4540,Not a Disaster
+4545,Disaster
+4552,Disaster
+4554,Disaster
+4555,Not a Disaster
+4558,Disaster
+4559,Not a Disaster
+4560,Not a Disaster
+4566,Not a Disaster
+4570,Not a Disaster
+4572,Not a Disaster
+4574,Not a Disaster
+4581,Disaster
+4583,Disaster
+4586,Disaster
+4591,Disaster
+4594,Not a Disaster
+4603,Not a Disaster
+4605,Not a Disaster
+4612,Not a Disaster
+4613,Not a Disaster
+4615,Not a Disaster
+4618,Not a Disaster
+4621,Not a Disaster
+4623,Not a Disaster
+4626,Not a Disaster
+4629,Not a Disaster
+4633,Not a Disaster
+4636,Not a Disaster
+4638,Not a Disaster
+4640,Not a Disaster
+4643,Not a Disaster
+4645,Not a Disaster
+4647,Not a Disaster
+4648,Not a Disaster
+4651,Not a Disaster
+4652,Not a Disaster
+4653,Disaster
+4654,Disaster
+4660,Not a Disaster
+4662,Not a Disaster
+4663,Not a Disaster
+4665,Not a Disaster
+4668,Not a Disaster
+4676,Not a Disaster
+4683,Disaster
+4685,Disaster
+4686,Not a Disaster
+4701,Not a Disaster
+4718,Not a Disaster
+4721,Not a Disaster
+4727,Not a Disaster
+4728,Disaster
+4733,Not a Disaster
+4741,Not a Disaster
+4743,Not a Disaster
+4746,Not a Disaster
+4751,Disaster
+4756,Disaster
+4761,Not a Disaster
+4763,Disaster
+4764,Disaster
+4767,Disaster
+4772,Disaster
+4776,Disaster
+4780,Disaster
+4781,Disaster
+4792,Disaster
+4796,Disaster
+4801,Disaster
+4804,Not a Disaster
+4805,Disaster
+4806,Disaster
+4811,Not a Disaster
+4815,Not a Disaster
+4816,Disaster
+4817,Disaster
+4818,Not a Disaster
+4822,Not a Disaster
+4824,Disaster
+4827,Disaster
+4837,Not a Disaster
+4838,Disaster
+4839,Disaster
+4841,Disaster
+4851,Disaster
+4855,Disaster
+4861,Not a Disaster
+4862,Not a Disaster
+4863,Not a Disaster
+4865,Not a Disaster
+4871,Not a Disaster
+4873,Not a Disaster
+4880,Not a Disaster
+4885,Not a Disaster
+4886,Not a Disaster
+4902,Not a Disaster
+4904,Not a Disaster
+4907,Not a Disaster
+4916,Not a Disaster
+4921,Not a Disaster
+4925,Not a Disaster
+4927,Not a Disaster
+4928,Not a Disaster
+4930,Not a Disaster
+4932,Not a Disaster
+4933,Not a Disaster
+4937,Disaster
+4939,Disaster
+4941,Not a Disaster
+4942,Not a Disaster
+4947,Not a Disaster
+4949,Not a Disaster
+4950,Not a Disaster
+4956,Not a Disaster
+4960,Not a Disaster
+4963,Not a Disaster
+4965,Disaster
+4976,Not a Disaster
+4977,Not a Disaster
+4987,Not a Disaster
+4991,Not a Disaster
+4994,Not a Disaster
+4999,Not a Disaster
+5003,Disaster
+5006,Not a Disaster
+5009,Not a Disaster
+5011,Not a Disaster
+5012,Disaster
+5014,Not a Disaster
+5020,Not a Disaster
+5021,Not a Disaster
+5023,Disaster
+5026,Not a Disaster
+5030,Not a Disaster
+5031,Disaster
+5036,Disaster
+5042,Not a Disaster
+5045,Disaster
+5048,Disaster
+5051,Not a Disaster
+5053,Not a Disaster
+5054,Not a Disaster
+5057,Not a Disaster
+5058,Not a Disaster
+5066,Disaster
+5070,Disaster
+5077,Not a Disaster
+5081,Disaster
+5084,Not a Disaster
+5086,Not a Disaster
+5090,Not a Disaster
+5091,Disaster
+5093,Not a Disaster
+5100,Not a Disaster
+5108,Disaster
+5111,Disaster
+5112,Disaster
+5118,Not a Disaster
+5121,Disaster
+5123,Disaster
+5129,Disaster
+5133,Not a Disaster
+5143,Not a Disaster
+5147,Not a Disaster
+5151,Disaster
+5156,Disaster
+5158,Disaster
+5161,Not a Disaster
+5163,Not a Disaster
+5167,Not a Disaster
+5173,Disaster
+5205,Not a Disaster
+5214,Not a Disaster
+5215,Not a Disaster
+5216,Not a Disaster
+5217,Not a Disaster
+5225,Not a Disaster
+5237,Not a Disaster
+5239,Not a Disaster
+5240,Not a Disaster
+5241,Not a Disaster
+5246,Not a Disaster
+5250,Not a Disaster
+5253,Not a Disaster
+5258,Not a Disaster
+5261,Not a Disaster
+5268,Not a Disaster
+5275,Not a Disaster
+5277,Not a Disaster
+5279,Not a Disaster
+5288,Not a Disaster
+5289,Not a Disaster
+5294,Not a Disaster
+5303,Not a Disaster
+5307,Not a Disaster
+5311,Not a Disaster
+5312,Not a Disaster
+5314,Not a Disaster
+5318,Not a Disaster
+5327,Not a Disaster
+5329,Not a Disaster
+5333,Not a Disaster
+5334,Not a Disaster
+5340,Not a Disaster
+5348,Not a Disaster
+5358,Not a Disaster
+5360,Not a Disaster
+5361,Not a Disaster
+5363,Disaster
+5364,Not a Disaster
+5369,Disaster
+5370,Not a Disaster
+5374,Disaster
+5376,Not a Disaster
+5388,Not a Disaster
+5390,Not a Disaster
+5393,Not a Disaster
+5394,Not a Disaster
+5395,Not a Disaster
+5398,Disaster
+5399,Disaster
+5401,Not a Disaster
+5402,Disaster
+5405,Not a Disaster
+5414,Not a Disaster
+5415,Disaster
+5419,Not a Disaster
+5421,Not a Disaster
+5422,Not a Disaster
+5424,Not a Disaster
+5427,Not a Disaster
+5429,Not a Disaster
+5431,Not a Disaster
+5433,Not a Disaster
+5434,Disaster
+5435,Not a Disaster
+5436,Not a Disaster
+5438,Disaster
+5440,Disaster
+5441,Not a Disaster
+5447,Not a Disaster
+5451,Disaster
+5453,Disaster
+5456,Not a Disaster
+5457,Disaster
+5463,Not a Disaster
+5464,Not a Disaster
+5470,Not a Disaster
+5472,Not a Disaster
+5474,Not a Disaster
+5478,Not a Disaster
+5483,Not a Disaster
+5490,Not a Disaster
+5500,Not a Disaster
+5504,Not a Disaster
+5508,Not a Disaster
+5511,Not a Disaster
+5512,Not a Disaster
+5513,Not a Disaster
+5516,Not a Disaster
+5523,Not a Disaster
+5527,Not a Disaster
+5530,Not a Disaster
+5533,Not a Disaster
+5536,Not a Disaster
+5537,Not a Disaster
+5542,Not a Disaster
+5543,Not a Disaster
+5546,Not a Disaster
+5549,Not a Disaster
+5550,Not a Disaster
+5551,Not a Disaster
+5562,Not a Disaster
+5566,Not a Disaster
+5568,Not a Disaster
+5571,Disaster
+5572,Disaster
+5574,Not a Disaster
+5583,Not a Disaster
+5585,Not a Disaster
+5591,Disaster
+5596,Not a Disaster
+5597,Not a Disaster
+5601,Disaster
+5606,Disaster
+5607,Not a Disaster
+5610,Not a Disaster
+5615,Not a Disaster
+5616,Disaster
+5623,Not a Disaster
+5630,Not a Disaster
+5636,Disaster
+5637,Not a Disaster
+5639,Not a Disaster
+5640,Disaster
+5643,Disaster
+5648,Not a Disaster
+5649,Not a Disaster
+5660,Not a Disaster
+5666,Not a Disaster
+5667,Disaster
+5678,Not a Disaster
+5679,Not a Disaster
+5681,Not a Disaster
+5682,Not a Disaster
+5691,Disaster
+5696,Disaster
+5697,Disaster
+5700,Not a Disaster
+5701,Not a Disaster
+5702,Disaster
+5708,Disaster
+5709,Disaster
+5718,Disaster
+5723,Disaster
+5725,Disaster
+5728,Disaster
+5731,Disaster
+5735,Disaster
+5737,Disaster
+5738,Disaster
+5742,Disaster
+5747,Disaster
+5749,Disaster
+5750,Disaster
+5755,Disaster
+5756,Disaster
+5761,Disaster
+5762,Disaster
+5767,Disaster
+5768,Disaster
+5770,Disaster
+5773,Disaster
+5774,Not a Disaster
+5779,Disaster
+5782,Disaster
+5785,Not a Disaster
+5786,Disaster
+5787,Disaster
+5788,Disaster
+5796,Not a Disaster
+5802,Not a Disaster
+5806,Disaster
+5809,Disaster
+5810,Not a Disaster
+5811,Disaster
+5813,Disaster
+5820,Not a Disaster
+5823,Not a Disaster
+5830,Disaster
+5831,Not a Disaster
+5838,Disaster
+5839,Not a Disaster
+5844,Disaster
+5846,Disaster
+5851,Disaster
+5852,Disaster
+5857,Not a Disaster
+5859,Not a Disaster
+5860,Disaster
+5862,Not a Disaster
+5865,Disaster
+5866,Disaster
+5871,Disaster
+5872,Disaster
+5877,Disaster
+5878,Disaster
+5879,Disaster
+5880,Not a Disaster
+5895,Not a Disaster
+5897,Not a Disaster
+5910,Not a Disaster
+5914,Not a Disaster
+5915,Not a Disaster
+5917,Not a Disaster
+5924,Not a Disaster
+5926,Not a Disaster
+5931,Not a Disaster
+5936,Not a Disaster
+5940,Not a Disaster
+5941,Not a Disaster
+5945,Not a Disaster
+5946,Not a Disaster
+5948,Not a Disaster
+5951,Not a Disaster
+5967,Not a Disaster
+5968,Not a Disaster
+5969,Not a Disaster
+5970,Not a Disaster
+5971,Not a Disaster
+5973,Not a Disaster
+5976,Not a Disaster
+5977,Not a Disaster
+5984,Not a Disaster
+5986,Not a Disaster
+5993,Not a Disaster
+5994,Not a Disaster
+6005,Disaster
+6006,Disaster
+6008,Not a Disaster
+6010,Disaster
+6011,Not a Disaster
+6014,Disaster
+6016,Not a Disaster
+6018,Not a Disaster
+6021,Not a Disaster
+6025,Disaster
+6028,Not a Disaster
+6029,Disaster
+6035,Not a Disaster
+6040,Not a Disaster
+6042,Disaster
+6044,Not a Disaster
+6046,Disaster
+6052,Not a Disaster
+6054,Disaster
+6062,Disaster
+6063,Not a Disaster
+6067,Disaster
+6068,Disaster
+6077,Not a Disaster
+6079,Not a Disaster
+6080,Not a Disaster
+6081,Disaster
+6082,Disaster
+6089,Not a Disaster
+6095,Not a Disaster
+6101,Not a Disaster
+6107,Not a Disaster
+6114,Not a Disaster
+6117,Not a Disaster
+6121,Not a Disaster
+6122,Not a Disaster
+6124,Not a Disaster
+6129,Not a Disaster
+6131,Not a Disaster
+6136,Disaster
+6139,Not a Disaster
+6142,Not a Disaster
+6143,Disaster
+6144,Disaster
+6149,Not a Disaster
+6155,Disaster
+6157,Not a Disaster
+6158,Not a Disaster
+6161,Not a Disaster
+6168,Disaster
+6172,Not a Disaster
+6176,Not a Disaster
+6177,Not a Disaster
+6179,Disaster
+6180,Disaster
+6182,Not a Disaster
+6186,Not a Disaster
+6189,Not a Disaster
+6190,Not a Disaster
+6194,Disaster
+6204,Not a Disaster
+6205,Not a Disaster
+6209,Not a Disaster
+6210,Not a Disaster
+6212,Not a Disaster
+6214,Disaster
+6221,Disaster
+6225,Disaster
+6228,Not a Disaster
+6229,Not a Disaster
+6231,Not a Disaster
+6235,Not a Disaster
+6236,Not a Disaster
+6237,Disaster
+6238,Not a Disaster
+6239,Not a Disaster
+6242,Not a Disaster
+6249,Not a Disaster
+6250,Not a Disaster
+6251,Not a Disaster
+6252,Disaster
+6260,Not a Disaster
+6264,Not a Disaster
+6266,Not a Disaster
+6270,Not a Disaster
+6275,Not a Disaster
+6279,Not a Disaster
+6280,Not a Disaster
+6284,Not a Disaster
+6285,Not a Disaster
+6286,Not a Disaster
+6287,Disaster
+6288,Not a Disaster
+6289,Disaster
+6290,Not a Disaster
+6291,Not a Disaster
+6295,Not a Disaster
+6298,Disaster
+6307,Not a Disaster
+6308,Not a Disaster
+6309,Not a Disaster
+6313,Not a Disaster
+6316,Disaster
+6319,Not a Disaster
+6321,Not a Disaster
+6324,Not a Disaster
+6327,Not a Disaster
+6333,Disaster
+6351,Disaster
+6352,Disaster
+6353,Disaster
+6357,Disaster
+6359,Disaster
+6360,Not a Disaster
+6364,Disaster
+6367,Disaster
+6368,Disaster
+6377,Disaster
+6378,Disaster
+6379,Not a Disaster
+6381,Disaster
+6390,Disaster
+6401,Not a Disaster
+6408,Not a Disaster
+6409,Not a Disaster
+6411,Not a Disaster
+6419,Disaster
+6424,Disaster
+6426,Disaster
+6428,Not a Disaster
+6431,Not a Disaster
+6432,Disaster
+6433,Disaster
+6435,Disaster
+6437,Not a Disaster
+6439,Disaster
+6442,Not a Disaster
+6444,Disaster
+6447,Disaster
+6456,Disaster
+6457,Not a Disaster
+6460,Not a Disaster
+6468,Not a Disaster
+6471,Disaster
+6475,Not a Disaster
+6476,Disaster
+6479,Disaster
+6483,Disaster
+6487,Not a Disaster
+6488,Not a Disaster
+6489,Not a Disaster
+6496,Not a Disaster
+6498,Not a Disaster
+6502,Not a Disaster
+6503,Not a Disaster
+6507,Not a Disaster
+6508,Not a Disaster
+6509,Not a Disaster
+6517,Not a Disaster
+6521,Not a Disaster
+6522,Not a Disaster
+6524,Not a Disaster
+6526,Not a Disaster
+6531,Disaster
+6533,Not a Disaster
+6538,Not a Disaster
+6539,Disaster
+6544,Disaster
+6557,Not a Disaster
+6558,Not a Disaster
+6562,Not a Disaster
+6563,Not a Disaster
+6564,Not a Disaster
+6574,Not a Disaster
+6578,Not a Disaster
+6581,Not a Disaster
+6584,Not a Disaster
+6587,Not a Disaster
+6589,Not a Disaster
+6590,Not a Disaster
+6592,Not a Disaster
+6595,Not a Disaster
+6599,Not a Disaster
+6600,Not a Disaster
+6606,Not a Disaster
+6609,Not a Disaster
+6612,Not a Disaster
+6615,Not a Disaster
+6618,Not a Disaster
+6620,Not a Disaster
+6623,Not a Disaster
+6633,Not a Disaster
+6639,Disaster
+6640,Disaster
+6641,Disaster
+6645,Not a Disaster
+6650,Not a Disaster
+6651,Not a Disaster
+6652,Not a Disaster
+6657,Not a Disaster
+6659,Not a Disaster
+6666,Disaster
+6671,Not a Disaster
+6673,Not a Disaster
+6674,Not a Disaster
+6677,Not a Disaster
+6680,Disaster
+6684,Not a Disaster
+6685,Not a Disaster
+6691,Not a Disaster
+6692,Not a Disaster
+6696,Not a Disaster
+6698,Not a Disaster
+6704,Not a Disaster
+6705,Not a Disaster
+6710,Not a Disaster
+6713,Not a Disaster
+6715,Not a Disaster
+6717,Not a Disaster
+6718,Not a Disaster
+6720,Not a Disaster
+6728,Not a Disaster
+6732,Not a Disaster
+6733,Not a Disaster
+6739,Not a Disaster
+6740,Not a Disaster
+6741,Not a Disaster
+6743,Not a Disaster
+6747,Not a Disaster
+6750,Disaster
+6752,Disaster
+6753,Not a Disaster
+6755,Disaster
+6761,Not a Disaster
+6763,Not a Disaster
+6768,Not a Disaster
+6770,Not a Disaster
+6771,Disaster
+6777,Not a Disaster
+6778,Not a Disaster
+6780,Not a Disaster
+6782,Disaster
+6786,Disaster
+6791,Not a Disaster
+6797,Not a Disaster
+6798,Not a Disaster
+6803,Not a Disaster
+6805,Not a Disaster
+6812,Not a Disaster
+6816,Not a Disaster
+6818,Not a Disaster
+6822,Not a Disaster
+6825,Not a Disaster
+6826,Not a Disaster
+6827,Not a Disaster
+6829,Not a Disaster
+6831,Not a Disaster
+6836,Not a Disaster
+6838,Not a Disaster
+6840,Not a Disaster
+6842,Not a Disaster
+6846,Not a Disaster
+6851,Disaster
+6853,Disaster
+6856,Not a Disaster
+6859,Disaster
+6865,Disaster
+6866,Disaster
+6868,Disaster
+6869,Disaster
+6871,Disaster
+6873,Disaster
+6886,Disaster
+6887,Disaster
+6888,Disaster
+6889,Disaster
+6891,Disaster
+6894,Disaster
+6895,Not a Disaster
+6899,Not a Disaster
+6901,Disaster
+6902,Disaster
+6904,Disaster
+6906,Disaster
+6922,Not a Disaster
+6923,Not a Disaster
+6924,Not a Disaster
+6927,Disaster
+6934,Not a Disaster
+6938,Not a Disaster
+6941,Not a Disaster
+6942,Disaster
+6944,Not a Disaster
+6947,Not a Disaster
+6952,Disaster
+6957,Not a Disaster
+6958,Disaster
+6964,Disaster
+6968,Not a Disaster
+6969,Disaster
+6976,Not a Disaster
+6982,Disaster
+6986,Disaster
+6987,Disaster
+6989,Not a Disaster
+6991,Disaster
+6993,Not a Disaster
+6995,Not a Disaster
+6997,Not a Disaster
+7000,Not a Disaster
+7003,Not a Disaster
+7004,Not a Disaster
+7007,Disaster
+7011,Not a Disaster
+7014,Not a Disaster
+7016,Not a Disaster
+7017,Not a Disaster
+7020,Not a Disaster
+7022,Not a Disaster
+7028,Not a Disaster
+7033,Not a Disaster
+7034,Disaster
+7035,Not a Disaster
+7038,Not a Disaster
+7040,Not a Disaster
+7041,Not a Disaster
+7042,Not a Disaster
+7045,Not a Disaster
+7049,Not a Disaster
+7055,Not a Disaster
+7057,Not a Disaster
+7062,Not a Disaster
+7064,Not a Disaster
+7066,Not a Disaster
+7067,Not a Disaster
+7072,Not a Disaster
+7079,Not a Disaster
+7082,Not a Disaster
+7083,Not a Disaster
+7084,Not a Disaster
+7085,Not a Disaster
+7087,Not a Disaster
+7090,Not a Disaster
+7094,Not a Disaster
+7096,Disaster
+7099,Not a Disaster
+7100,Not a Disaster
+7101,Not a Disaster
+7102,Not a Disaster
+7103,Not a Disaster
+7107,Not a Disaster
+7110,Not a Disaster
+7113,Not a Disaster
+7117,Not a Disaster
+7119,Not a Disaster
+7123,Not a Disaster
+7127,Not a Disaster
+7133,Disaster
+7139,Not a Disaster
+7143,Not a Disaster
+7145,Not a Disaster
+7151,Not a Disaster
+7152,Not a Disaster
+7153,Not a Disaster
+7156,Not a Disaster
+7162,Not a Disaster
+7170,Not a Disaster
+7172,Not a Disaster
+7177,Not a Disaster
+7181,Not a Disaster
+7182,Not a Disaster
+7189,Not a Disaster
+7190,Not a Disaster
+7200,Not a Disaster
+7207,Disaster
+7209,Not a Disaster
+7212,Disaster
+7216,Not a Disaster
+7217,Disaster
+7219,Disaster
+7220,Not a Disaster
+7222,Not a Disaster
+7225,Disaster
+7233,Not a Disaster
+7237,Not a Disaster
+7238,Disaster
+7239,Disaster
+7240,Disaster
+7243,Disaster
+7245,Not a Disaster
+7246,Disaster
+7249,Disaster
+7257,Not a Disaster
+7258,Disaster
+7259,Disaster
+7262,Disaster
+7263,Disaster
+7269,Not a Disaster
+7271,Disaster
+7273,Disaster
+7276,Disaster
+7279,Disaster
+7282,Disaster
+7284,Disaster
+7293,Disaster
+7298,Disaster
+7303,Not a Disaster
+7304,Disaster
+7305,Not a Disaster
+7308,Not a Disaster
+7313,Not a Disaster
+7314,Disaster
+7321,Not a Disaster
+7322,Not a Disaster
+7327,Not a Disaster
+7333,Not a Disaster
+7336,Not a Disaster
+7339,Not a Disaster
+7341,Not a Disaster
+7346,Not a Disaster
+7347,Not a Disaster
+7349,Not a Disaster
+7351,Not a Disaster
+7353,Not a Disaster
+7363,Not a Disaster
+7364,Not a Disaster
+7368,Disaster
+7370,Disaster
+7375,Not a Disaster
+7376,Not a Disaster
+7379,Not a Disaster
+7382,Not a Disaster
+7384,Not a Disaster
+7385,Not a Disaster
+7387,Not a Disaster
+7388,Not a Disaster
+7389,Not a Disaster
+7394,Not a Disaster
+7396,Not a Disaster
+7398,Not a Disaster
+7399,Not a Disaster
+7401,Not a Disaster
+7404,Not a Disaster
+7406,Not a Disaster
+7409,Not a Disaster
+7411,Not a Disaster
+7417,Not a Disaster
+7420,Not a Disaster
+7422,Not a Disaster
+7423,Not a Disaster
+7427,Disaster
+7429,Not a Disaster
+7432,Not a Disaster
+7435,Not a Disaster
+7436,Disaster
+7440,Disaster
+7441,Not a Disaster
+7445,Not a Disaster
+7448,Not a Disaster
+7449,Not a Disaster
+7450,Not a Disaster
+7454,Not a Disaster
+7455,Not a Disaster
+7460,Not a Disaster
+7462,Not a Disaster
+7464,Not a Disaster
+7466,Not a Disaster
+7468,Not a Disaster
+7469,Not a Disaster
+7471,Not a Disaster
+7472,Not a Disaster
+7483,Not a Disaster
+7484,Not a Disaster
+7485,Not a Disaster
+7486,Not a Disaster
+7487,Not a Disaster
+7489,Disaster
+7492,Not a Disaster
+7495,Disaster
+7499,Disaster
+7500,Disaster
+7506,Disaster
+7508,Disaster
+7509,Disaster
+7511,Disaster
+7516,Disaster
+7524,Disaster
+7538,Disaster
+7539,Disaster
+7541,Disaster
+7546,Disaster
+7549,Disaster
+7562,Disaster
+7564,Disaster
+7567,Disaster
+7572,Disaster
+7574,Disaster
+7575,Disaster
+7586,Disaster
+7592,Disaster
+7596,Not a Disaster
+7597,Disaster
+7599,Not a Disaster
+7606,Not a Disaster
+7615,Not a Disaster
+7618,Not a Disaster
+7620,Not a Disaster
+7624,Not a Disaster
+7625,Not a Disaster
+7629,Not a Disaster
+7632,Not a Disaster
+7636,Not a Disaster
+7637,Not a Disaster
+7646,Not a Disaster
+7655,Not a Disaster
+7658,Not a Disaster
+7660,Not a Disaster
+7664,Not a Disaster
+7665,Not a Disaster
+7666,Not a Disaster
+7667,Not a Disaster
+7673,Not a Disaster
+7676,Not a Disaster
+7682,Not a Disaster
+7684,Not a Disaster
+7690,Not a Disaster
+7697,Not a Disaster
+7700,Not a Disaster
+7704,Not a Disaster
+7705,Not a Disaster
+7706,Not a Disaster
+7708,Not a Disaster
+7709,Not a Disaster
+7710,Not a Disaster
+7713,Not a Disaster
+7716,Not a Disaster
+7726,Not a Disaster
+7729,Not a Disaster
+7730,Not a Disaster
+7732,Not a Disaster
+7734,Not a Disaster
+7740,Not a Disaster
+7741,Not a Disaster
+7745,Disaster
+7757,Disaster
+7762,Disaster
+7770,Disaster
+7776,Disaster
+7777,Not a Disaster
+7778,Disaster
+7779,Not a Disaster
+7782,Not a Disaster
+7786,Disaster
+7791,Disaster
+7792,Disaster
+7794,Not a Disaster
+7795,Not a Disaster
+7796,Not a Disaster
+7798,Not a Disaster
+7805,Not a Disaster
+7806,Not a Disaster
+7808,Not a Disaster
+7811,Not a Disaster
+7814,Not a Disaster
+7819,Not a Disaster
+7820,Not a Disaster
+7825,Not a Disaster
+7829,Not a Disaster
+7834,Not a Disaster
+7836,Not a Disaster
+7838,Not a Disaster
+7841,Not a Disaster
+7845,Disaster
+7846,Not a Disaster
+7853,Not a Disaster
+7856,Not a Disaster
+7858,Not a Disaster
+7859,Disaster
+7866,Not a Disaster
+7875,Disaster
+7879,Not a Disaster
+7884,Not a Disaster
+7886,Disaster
+7890,Not a Disaster
+7892,Not a Disaster
+7896,Not a Disaster
+7899,Disaster
+7900,Disaster
+7901,Not a Disaster
+7904,Not a Disaster
+7911,Not a Disaster
+7917,Not a Disaster
+7919,Not a Disaster
+7920,Disaster
+7921,Disaster
+7922,Not a Disaster
+7925,Disaster
+7927,Disaster
+7928,Disaster
+7931,Not a Disaster
+7942,Not a Disaster
+7946,Disaster
+7947,Not a Disaster
+7948,Not a Disaster
+7951,Disaster
+7956,Not a Disaster
+7961,Disaster
+7964,Disaster
+7966,Disaster
+7967,Not a Disaster
+7974,Disaster
+7975,Not a Disaster
+7979,Disaster
+7985,Disaster
+7986,Disaster
+7993,Not a Disaster
+7995,Disaster
+7997,Not a Disaster
+7998,Disaster
+8004,Disaster
+8007,Disaster
+8011,Not a Disaster
+8014,Disaster
+8022,Not a Disaster
+8027,Not a Disaster
+8033,Disaster
+8041,Not a Disaster
+8042,Disaster
+8046,Not a Disaster
+8048,Not a Disaster
+8050,Disaster
+8051,Disaster
+8052,Not a Disaster
+8053,Disaster
+8054,Not a Disaster
+8059,Disaster
+8063,Not a Disaster
+8072,Not a Disaster
+8075,Not a Disaster
+8076,Not a Disaster
+8077,Disaster
+8078,Disaster
+8080,Not a Disaster
+8082,Not a Disaster
+8086,Not a Disaster
+8090,Disaster
+8092,Not a Disaster
+8093,Not a Disaster
+8099,Disaster
+8104,Disaster
+8107,Not a Disaster
+8108,Not a Disaster
+8114,Not a Disaster
+8115,Not a Disaster
+8117,Disaster
+8123,Disaster
+8124,Disaster
+8127,Disaster
+8132,Not a Disaster
+8134,Disaster
+8139,Not a Disaster
+8145,Disaster
+8148,Disaster
+8151,Disaster
+8152,Disaster
+8153,Not a Disaster
+8157,Not a Disaster
+8160,Disaster
+8166,Disaster
+8167,Disaster
+8173,Disaster
+8174,Disaster
+8178,Disaster
+8179,Not a Disaster
+8185,Not a Disaster
+8186,Disaster
+8192,Not a Disaster
+8193,Not a Disaster
+8194,Not a Disaster
+8197,Not a Disaster
+8198,Not a Disaster
+8199,Not a Disaster
+8200,Not a Disaster
+8206,Not a Disaster
+8207,Not a Disaster
+8220,Not a Disaster
+8222,Not a Disaster
+8227,Not a Disaster
+8228,Not a Disaster
+8229,Not a Disaster
+8230,Disaster
+8233,Disaster
+8248,Not a Disaster
+8249,Disaster
+8255,Not a Disaster
+8260,Disaster
+8263,Not a Disaster
+8265,Not a Disaster
+8268,Not a Disaster
+8269,Not a Disaster
+8272,Not a Disaster
+8273,Not a Disaster
+8275,Not a Disaster
+8277,Not a Disaster
+8281,Not a Disaster
+8282,Not a Disaster
+8290,Not a Disaster
+8293,Not a Disaster
+8299,Not a Disaster
+8302,Not a Disaster
+8303,Not a Disaster
+8305,Not a Disaster
+8306,Not a Disaster
+8307,Not a Disaster
+8308,Not a Disaster
+8313,Not a Disaster
+8316,Not a Disaster
+8319,Not a Disaster
+8322,Disaster
+8323,Not a Disaster
+8325,Not a Disaster
+8326,Not a Disaster
+8327,Not a Disaster
+8328,Not a Disaster
+8331,Not a Disaster
+8333,Disaster
+8336,Not a Disaster
+8338,Not a Disaster
+8340,Not a Disaster
+8342,Not a Disaster
+8343,Not a Disaster
+8353,Not a Disaster
+8354,Not a Disaster
+8357,Not a Disaster
+8358,Not a Disaster
+8359,Not a Disaster
+8373,Not a Disaster
+8376,Not a Disaster
+8379,Not a Disaster
+8380,Not a Disaster
+8381,Not a Disaster
+8384,Not a Disaster
+8395,Disaster
+8398,Disaster
+8403,Not a Disaster
+8407,Disaster
+8413,Disaster
+8417,Disaster
+8420,Disaster
+8421,Not a Disaster
+8424,Disaster
+8426,Disaster
+8427,Disaster
+8438,Disaster
+8439,Not a Disaster
+8442,Not a Disaster
+8449,Not a Disaster
+8456,Not a Disaster
+8460,Not a Disaster
+8462,Not a Disaster
+8465,Not a Disaster
+8466,Not a Disaster
+8467,Not a Disaster
+8469,Not a Disaster
+8470,Not a Disaster
+8474,Not a Disaster
+8479,Not a Disaster
+8481,Not a Disaster
+8482,Not a Disaster
+8485,Not a Disaster
+8488,Not a Disaster
+8492,Not a Disaster
+8493,Not a Disaster
+8495,Not a Disaster
+8499,Not a Disaster
+8501,Not a Disaster
+8519,Not a Disaster
+8521,Not a Disaster
+8525,Not a Disaster
+8527,Not a Disaster
+8529,Not a Disaster
+8532,Not a Disaster
+8534,Not a Disaster
+8535,Not a Disaster
+8537,Not a Disaster
+8544,Not a Disaster
+8548,Not a Disaster
+8549,Not a Disaster
+8552,Not a Disaster
+8554,Not a Disaster
+8563,Not a Disaster
+8564,Not a Disaster
+8565,Not a Disaster
+8566,Not a Disaster
+8568,Not a Disaster
+8569,Not a Disaster
+8573,Not a Disaster
+8583,Not a Disaster
+8588,Not a Disaster
+8590,Not a Disaster
+8592,Not a Disaster
+8593,Not a Disaster
+8594,Disaster
+8597,Not a Disaster
+8600,Disaster
+8601,Not a Disaster
+8602,Not a Disaster
+8603,Not a Disaster
+8604,Not a Disaster
+8605,Not a Disaster
+8611,Not a Disaster
+8614,Not a Disaster
+8616,Disaster
+8617,Not a Disaster
+8619,Disaster
+8626,Disaster
+8629,Not a Disaster
+8630,Not a Disaster
+8632,Not a Disaster
+8634,Disaster
+8641,Not a Disaster
+8645,Disaster
+8649,Disaster
+8652,Disaster
+8666,Disaster
+8671,Not a Disaster
+8672,Disaster
+8675,Not a Disaster
+8678,Disaster
+8679,Disaster
+8682,Not a Disaster
+8687,Disaster
+8701,Not a Disaster
+8703,Not a Disaster
+8707,Not a Disaster
+8713,Not a Disaster
+8716,Not a Disaster
+8719,Not a Disaster
+8725,Not a Disaster
+8730,Not a Disaster
+8731,Not a Disaster
+8748,Not a Disaster
+8749,Not a Disaster
+8756,Not a Disaster
+8764,Not a Disaster
+8765,Not a Disaster
+8769,Not a Disaster
+8771,Not a Disaster
+8772,Not a Disaster
+8773,Not a Disaster
+8779,Not a Disaster
+8792,Not a Disaster
+8794,Not a Disaster
+8796,Not a Disaster
+8798,Not a Disaster
+8803,Not a Disaster
+8807,Not a Disaster
+8809,Not a Disaster
+8811,Not a Disaster
+8813,Not a Disaster
+8814,Not a Disaster
+8818,Not a Disaster
+8819,Not a Disaster
+8820,Disaster
+8821,Not a Disaster
+8822,Not a Disaster
+8824,Not a Disaster
+8826,Not a Disaster
+8827,Not a Disaster
+8828,Not a Disaster
+8833,Not a Disaster
+8834,Not a Disaster
+8845,Not a Disaster
+8847,Not a Disaster
+8849,Not a Disaster
+8861,Not a Disaster
+8867,Not a Disaster
+8868,Not a Disaster
+8870,Not a Disaster
+8873,Not a Disaster
+8874,Not a Disaster
+8876,Not a Disaster
+8877,Not a Disaster
+8879,Not a Disaster
+8882,Not a Disaster
+8884,Not a Disaster
+8889,Not a Disaster
+8891,Not a Disaster
+8894,Disaster
+8895,Not a Disaster
+8897,Not a Disaster
+8898,Disaster
+8901,Not a Disaster
+8904,Disaster
+8909,Not a Disaster
+8910,Not a Disaster
+8911,Not a Disaster
+8915,Not a Disaster
+8917,Not a Disaster
+8918,Not a Disaster
+8919,Not a Disaster
+8922,Disaster
+8925,Not a Disaster
+8928,Not a Disaster
+8929,Not a Disaster
+8930,Not a Disaster
+8932,Not a Disaster
+8937,Not a Disaster
+8940,Not a Disaster
+8943,Not a Disaster
+8950,Not a Disaster
+8951,Disaster
+8954,Not a Disaster
+8958,Disaster
+8960,Not a Disaster
+8964,Disaster
+8975,Not a Disaster
+8977,Disaster
+8981,Not a Disaster
+8982,Not a Disaster
+8984,Not a Disaster
+8988,Not a Disaster
+8990,Not a Disaster
+8991,Not a Disaster
+8995,Not a Disaster
+8997,Not a Disaster
+9003,Not a Disaster
+9004,Not a Disaster
+9010,Not a Disaster
+9011,Not a Disaster
+9013,Not a Disaster
+9014,Not a Disaster
+9015,Not a Disaster
+9017,Not a Disaster
+9019,Not a Disaster
+9021,Not a Disaster
+9024,Not a Disaster
+9032,Not a Disaster
+9035,Not a Disaster
+9036,Not a Disaster
+9037,Not a Disaster
+9043,Disaster
+9046,Disaster
+9048,Disaster
+9049,Disaster
+9050,Disaster
+9056,Disaster
+9063,Not a Disaster
+9065,Disaster
+9066,Disaster
+9068,Not a Disaster
+9069,Disaster
+9070,Not a Disaster
+9073,Disaster
+9076,Disaster
+9091,Disaster
+9092,Disaster
+9104,Disaster
+9105,Disaster
+9108,Disaster
+9111,Disaster
+9115,Disaster
+9117,Disaster
+9122,Disaster
+9125,Disaster
+9127,Disaster
+9129,Disaster
+9133,Disaster
+9136,Disaster
+9138,Disaster
+9140,Disaster
+9147,Disaster
+9150,Disaster
+9152,Disaster
+9153,Disaster
+9155,Disaster
+9158,Disaster
+9160,Disaster
+9163,Disaster
+9165,Disaster
+9167,Disaster
+9168,Disaster
+9170,Disaster
+9176,Disaster
+9178,Disaster
+9184,Disaster
+9186,Disaster
+9188,Disaster
+9189,Disaster
+9190,Disaster
+9196,Not a Disaster
+9198,Not a Disaster
+9199,Disaster
+9200,Disaster
+9201,Not a Disaster
+9202,Disaster
+9204,Disaster
+9205,Disaster
+9213,Disaster
+9214,Disaster
+9224,Disaster
+9227,Disaster
+9228,Disaster
+9229,Disaster
+9234,Disaster
+9236,Disaster
+9241,Disaster
+9243,Not a Disaster
+9245,Not a Disaster
+9256,Disaster
+9258,Not a Disaster
+9261,Not a Disaster
+9274,Not a Disaster
+9279,Not a Disaster
+9282,Not a Disaster
+9284,Not a Disaster
+9285,Not a Disaster
+9291,Not a Disaster
+9295,Not a Disaster
+9299,Not a Disaster
+9302,Not a Disaster
+9304,Not a Disaster
+9305,Not a Disaster
+9306,Not a Disaster
+9310,Not a Disaster
+9312,Not a Disaster
+9316,Not a Disaster
+9318,Not a Disaster
+9323,Not a Disaster
+9326,Not a Disaster
+9327,Not a Disaster
+9328,Not a Disaster
+9331,Not a Disaster
+9335,Not a Disaster
+9336,Not a Disaster
+9340,Not a Disaster
+9349,Disaster
+9352,Not a Disaster
+9353,Not a Disaster
+9354,Not a Disaster
+9356,Not a Disaster
+9357,Not a Disaster
+9358,Not a Disaster
+9359,Not a Disaster
+9364,Not a Disaster
+9366,Disaster
+9369,Not a Disaster
+9370,Not a Disaster
+9379,Not a Disaster
+9381,Not a Disaster
+9383,Not a Disaster
+9389,Not a Disaster
+9390,Not a Disaster
+9392,Disaster
+9394,Disaster
+9398,Disaster
+9399,Disaster
+9400,Not a Disaster
+9407,Disaster
+9409,Disaster
+9412,Disaster
+9413,Disaster
+9415,Not a Disaster
+9419,Disaster
+9423,Not a Disaster
+9424,Disaster
+9426,Not a Disaster
+9427,Disaster
+9428,Not a Disaster
+9429,Not a Disaster
+9433,Disaster
+9437,Disaster
+9440,Not a Disaster
+9442,Disaster
+9443,Disaster
+9444,Disaster
+9447,Not a Disaster
+9459,Not a Disaster
+9461,Disaster
+9462,Not a Disaster
+9464,Disaster
+9473,Not a Disaster
+9475,Disaster
+9476,Disaster
+9477,Disaster
+9478,Disaster
+9479,Not a Disaster
+9483,Disaster
+9487,Disaster
+9494,Disaster
+9497,Disaster
+9498,Disaster
+9506,Not a Disaster
+9512,Disaster
+9514,Disaster
+9515,Disaster
+9516,Disaster
+9517,Disaster
+9518,Not a Disaster
+9521,Not a Disaster
+9523,Not a Disaster
+9527,Not a Disaster
+9528,Disaster
+9530,Not a Disaster
+9532,Disaster
+9534,Disaster
+9535,Not a Disaster
+9536,Disaster
+9543,Not a Disaster
+9544,Not a Disaster
+9545,Not a Disaster
+9546,Not a Disaster
+9549,Not a Disaster
+9558,Not a Disaster
+9560,Not a Disaster
+9561,Not a Disaster
+9570,Not a Disaster
+9573,Not a Disaster
+9578,Not a Disaster
+9584,Not a Disaster
+9587,Not a Disaster
+9588,Not a Disaster
+9599,Not a Disaster
+9601,Not a Disaster
+9604,Not a Disaster
+9614,Disaster
+9615,Disaster
+9621,Disaster
+9622,Disaster
+9623,Disaster
+9624,Not a Disaster
+9626,Disaster
+9628,Disaster
+9630,Not a Disaster
+9631,Disaster
+9633,Disaster
+9635,Disaster
+9637,Disaster
+9641,Not a Disaster
+9647,Disaster
+9648,Disaster
+9649,Not a Disaster
+9658,Not a Disaster
+9662,Disaster
+9668,Not a Disaster
+9671,Not a Disaster
+9676,Disaster
+9677,Disaster
+9679,Not a Disaster
+9682,Disaster
+9685,Not a Disaster
+9689,Not a Disaster
+9692,Not a Disaster
+9693,Not a Disaster
+9694,Not a Disaster
+9696,Not a Disaster
+9700,Not a Disaster
+9711,Disaster
+9713,Not a Disaster
+9720,Not a Disaster
+9721,Disaster
+9725,Not a Disaster
+9726,Not a Disaster
+9727,Not a Disaster
+9735,Not a Disaster
+9740,Disaster
+9742,Disaster
+9743,Not a Disaster
+9747,Disaster
+9748,Disaster
+9751,Disaster
+9758,Not a Disaster
+9767,Not a Disaster
+9768,Not a Disaster
+9773,Not a Disaster
+9777,Not a Disaster
+9781,Not a Disaster
+9784,Not a Disaster
+9786,Not a Disaster
+9789,Not a Disaster
+9792,Not a Disaster
+9793,Not a Disaster
+9798,Not a Disaster
+9799,Not a Disaster
+9802,Not a Disaster
+9803,Not a Disaster
+9804,Not a Disaster
+9805,Not a Disaster
+9807,Not a Disaster
+9809,Not a Disaster
+9811,Not a Disaster
+9814,Not a Disaster
+9817,Not a Disaster
+9821,Not a Disaster
+9824,Not a Disaster
+9825,Not a Disaster
+9827,Disaster
+9839,Disaster
+9840,Not a Disaster
+9843,Not a Disaster
+9844,Not a Disaster
+9845,Not a Disaster
+9847,Not a Disaster
+9848,Not a Disaster
+9851,Not a Disaster
+9852,Not a Disaster
+9855,Not a Disaster
+9856,Not a Disaster
+9863,Not a Disaster
+9867,Not a Disaster
+9871,Not a Disaster
+9876,Not a Disaster
+9879,Not a Disaster
+9882,Not a Disaster
+9891,Not a Disaster
+9892,Not a Disaster
+9893,Not a Disaster
+9895,Not a Disaster
+9899,Not a Disaster
+9900,Not a Disaster
+9902,Not a Disaster
+9903,Not a Disaster
+9904,Not a Disaster
+9908,Not a Disaster
+9913,Not a Disaster
+9914,Not a Disaster
+9917,Not a Disaster
+9922,Disaster
+9924,Not a Disaster
+9926,Not a Disaster
+9927,Not a Disaster
+9928,Not a Disaster
+9929,Not a Disaster
+9936,Not a Disaster
+9939,Not a Disaster
+9947,Not a Disaster
+9951,Not a Disaster
+9954,Not a Disaster
+9956,Not a Disaster
+9957,Not a Disaster
+9959,Not a Disaster
+9962,Not a Disaster
+9964,Not a Disaster
+9966,Not a Disaster
+9968,Not a Disaster
+9969,Not a Disaster
+9970,Not a Disaster
+9975,Not a Disaster
+9977,Not a Disaster
+9981,Not a Disaster
+9993,Not a Disaster
+9996,Not a Disaster
+9997,Not a Disaster
+9999,Not a Disaster
+10002,Not a Disaster
+10007,Disaster
+10015,Not a Disaster
+10019,Not a Disaster
+10022,Not a Disaster
+10024,Not a Disaster
+10026,Not a Disaster
+10033,Not a Disaster
+10043,Not a Disaster
+10046,Not a Disaster
+10051,Not a Disaster
+10053,Not a Disaster
+10062,Disaster
+10063,Disaster
+10065,Disaster
+10068,Disaster
+10078,Disaster
+10086,Disaster
+10094,Disaster
+10095,Disaster
+10096,Disaster
+10097,Disaster
+10103,Disaster
+10104,Disaster
+10108,Not a Disaster
+10122,Not a Disaster
+10123,Not a Disaster
+10128,Not a Disaster
+10131,Not a Disaster
+10133,Not a Disaster
+10134,Not a Disaster
+10135,Not a Disaster
+10145,Not a Disaster
+10148,Not a Disaster
+10154,Not a Disaster
+10155,Not a Disaster
+10158,Disaster
+10160,Disaster
+10161,Disaster
+10162,Disaster
+10165,Disaster
+10166,Disaster
+10167,Disaster
+10170,Disaster
+10178,Disaster
+10180,Disaster
+10181,Not a Disaster
+10185,Disaster
+10188,Disaster
+10190,Disaster
+10196,Disaster
+10200,Disaster
+10205,Not a Disaster
+10211,Not a Disaster
+10216,Not a Disaster
+10219,Disaster
+10221,Not a Disaster
+10225,Not a Disaster
+10227,Not a Disaster
+10228,Disaster
+10230,Disaster
+10232,Disaster
+10233,Disaster
+10235,Not a Disaster
+10238,Disaster
+10240,Disaster
+10242,Not a Disaster
+10248,Disaster
+10254,Not a Disaster
+10257,Not a Disaster
+10261,Not a Disaster
+10262,Not a Disaster
+10266,Not a Disaster
+10267,Disaster
+10271,Not a Disaster
+10277,Not a Disaster
+10279,Not a Disaster
+10281,Not a Disaster
+10282,Not a Disaster
+10285,Not a Disaster
+10292,Not a Disaster
+10298,Not a Disaster
+10300,Not a Disaster
+10309,Not a Disaster
+10311,Not a Disaster
+10312,Not a Disaster
+10319,Not a Disaster
+10324,Disaster
+10326,Not a Disaster
+10328,Not a Disaster
+10343,Not a Disaster
+10346,Not a Disaster
+10347,Not a Disaster
+10353,Not a Disaster
+10354,Disaster
+10356,Not a Disaster
+10357,Not a Disaster
+10362,Not a Disaster
+10363,Not a Disaster
+10370,Disaster
+10373,Not a Disaster
+10386,Not a Disaster
+10388,Not a Disaster
+10389,Not a Disaster
+10391,Disaster
+10397,Not a Disaster
+10400,Not a Disaster
+10403,Not a Disaster
+10404,Not a Disaster
+10408,Not a Disaster
+10417,Not a Disaster
+10425,Not a Disaster
+10435,Disaster
+10437,Disaster
+10438,Disaster
+10440,Not a Disaster
+10442,Not a Disaster
+10447,Disaster
+10452,Disaster
+10453,Not a Disaster
+10454,Disaster
+10459,Disaster
+10460,Disaster
+10463,Not a Disaster
+10465,Disaster
+10469,Disaster
+10474,Disaster
+10475,Disaster
+10476,Disaster
+10477,Disaster
+10480,Disaster
+10491,Disaster
+10493,Disaster
+10494,Disaster
+10495,Disaster
+10497,Not a Disaster
+10501,Disaster
+10504,Disaster
+10507,Disaster
+10509,Disaster
+10510,Not a Disaster
+10512,Disaster
+10514,Disaster
+10526,Disaster
+10528,Disaster
+10530,Disaster
+10531,Disaster
+10532,Disaster
+10538,Not a Disaster
+10539,Not a Disaster
+10542,Not a Disaster
+10547,Not a Disaster
+10549,Not a Disaster
+10556,Not a Disaster
+10569,Not a Disaster
+10572,Not a Disaster
+10577,Not a Disaster
+10579,Not a Disaster
+10586,Disaster
+10594,Disaster
+10595,Disaster
+10597,Not a Disaster
+10602,Disaster
+10604,Disaster
+10614,Disaster
+10617,Not a Disaster
+10618,Not a Disaster
+10619,Disaster
+10624,Disaster
+10633,Disaster
+10634,Disaster
+10635,Not a Disaster
+10638,Not a Disaster
+10639,Not a Disaster
+10642,Not a Disaster
+10643,Not a Disaster
+10645,Disaster
+10646,Not a Disaster
+10649,Not a Disaster
+10652,Disaster
+10653,Not a Disaster
+10654,Not a Disaster
+10661,Disaster
+10664,Disaster
+10668,Not a Disaster
+10670,Not a Disaster
+10674,Not a Disaster
+10683,Not a Disaster
+10694,Not a Disaster
+10697,Not a Disaster
+10699,Not a Disaster
+10701,Not a Disaster
+10703,Not a Disaster
+10713,Not a Disaster
+10714,Disaster
+10716,Not a Disaster
+10717,Not a Disaster
+10719,Not a Disaster
+10725,Not a Disaster
+10728,Not a Disaster
+10734,Not a Disaster
+10738,Disaster
+10740,Disaster
+10742,Disaster
+10756,Disaster
+10757,Disaster
+10758,Disaster
+10761,Disaster
+10762,Disaster
+10773,Disaster
+10778,Disaster
+10781,Disaster
+10791,Not a Disaster
+10792,Not a Disaster
+10796,Not a Disaster
+10797,Not a Disaster
+10801,Not a Disaster
+10804,Not a Disaster
+10806,Not a Disaster
+10807,Not a Disaster
+10816,Not a Disaster
+10820,Not a Disaster
+10828,Not a Disaster
+10836,Disaster
+10838,Disaster
+10845,Disaster
+10856,Disaster
+10857,Disaster
+10858,Disaster
+10861,Disaster
+10865,Disaster
+10868,Disaster
+10874,Disaster
+10875,Not a Disaster
